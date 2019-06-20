@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Sebastian Häring",
+        "adresse":[
+            {
+                "strasse": "Uhlandstraße"
+            },
+            {
+                "strasse": "Adolf-Goebel-Straße"
+            }
+        ]
+    }
+]
